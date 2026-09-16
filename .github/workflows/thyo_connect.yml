@@ -1,6 +1,6 @@
 name: ThyoCloud Personal RDP (Fork)
 
-on:
+on:  
   workflow_dispatch:
     inputs:
       userEmail:
